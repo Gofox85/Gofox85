@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm SANJAYRAM.M  
 
 Welcome to my GitHub! This repository is all about **me** – my journey, interests, and projects. 🚀  
 

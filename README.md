@@ -7,14 +7,14 @@ Welcome to my GitHub! This repository is all about **me** – my journey, intere
 ## 🙋 About Me
 - 💻 Passionate about technology and web development  
 - 📚 Always learning new skills and exploring ideas  
-- 🎯 Interested in [your areas of interest, e.g., Data Science, Web Development, AI]  
-- 🌱 Currently working on improving my [specific skill/project]  
+- 🎯 Interested in Data Science, Web Development  
+- 🌱 Currently working on improving my Web Development project  
 
 ---
 
 ## 🛠️ Skills
 - **Languages:** HTML, CSS, JavaScript, Python, Java  
-- **Tools & Platforms:** GitHub, VS Code, [any others you use]  
+- **Tools & Platforms:** GitHub, VS Code  
 - **Other Skills:** Problem-solving, teamwork, creativity  
 
 ---

@@ -21,9 +21,9 @@ Welcome to my GitHub! This repository is all about **me** – my journey, intere
 
 ## 📂 Projects
 Here are some of my highlighted works:
-- 🔹 [Project 1](#) – Short description  
-- 🔹 [Project 2](#) – Short description  
-- 🔹 [Project 3](#) – Short description  
+- 🔹 [smart parking slot booking system](#) – Short description  
+- 🔹 [Cancer Detection Using Machine Learning and Microarray Gene Expression Data ](#) – Short description  
+- 🔹 [simple enceiption and deceiption using c ](#) – Short description  
 
 ---
 
